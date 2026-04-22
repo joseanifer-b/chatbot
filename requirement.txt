@@ -1,0 +1,9 @@
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+transformers
+torch
+streamlit
+rank-bm25
+tiktoken
